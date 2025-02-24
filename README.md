@@ -43,9 +43,9 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 ## 📈 Model Evaluation
 - The performance of the trained model is evaluated using:
-  - **📉 Mean Absolute Error (MAE)**
-  - **📊 Mean Squared Error (MSE)**
-  - **📈 R-squared Score (R²)**
+  - **📉 Mean Absolute Error (MAE)** - 1.24
+  - **📊 Mean Squared Error (MSE)** - 5.02
+  - **📈 R-squared Score (R²)** - 0.99
 - The evaluation metrics are printed as output.
 
 ## ▶️ How to Run
